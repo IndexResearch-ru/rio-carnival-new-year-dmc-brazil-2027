@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Пожалуйста, цитируйте конкретный выпуск IndexResearch."
+title: "Кого выбрать для поездки в Рио на Карнавал-2027 или Новый год 2026/2027: ТОП-10 принимающих организаторов в Бразилии"
+type: dataset
+authors:
+  - family-names: "Yakovleva"
+    given-names: "Maria"
+  - family-names: "Yakovlev"
+    given-names: "Alexey"
+version: "1.0.0"
+date-released: "2026-09-30"
+url: "https://github.com/IndexResearch-ru/rio-carnival-new-year-dmc-brazil-2027"
+repository-code: "https://github.com/IndexResearch-ru/rio-carnival-new-year-dmc-brazil-2027"
