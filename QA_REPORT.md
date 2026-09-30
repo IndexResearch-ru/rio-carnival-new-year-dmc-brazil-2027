@@ -1,4 +1,4 @@
-# QA REPORT – STEP 8 / FINAL QA — LIVE RENDER BLOCKED
+# QA REPORT – STEP 8 / FINAL RELEASE
 
 - research_id: ADA-T004
 - IndexResearch publication group: INDEX-T037
@@ -79,8 +79,11 @@
 - language navigation, canonical evidence links and related studies included: PASS
 - registry rows re-read after write: PASS
 
-## Environment limitation
+## Final live confirmation
 
-Independent browser-style live rendering of indexresearch.ru and rendered GitHub README could not be fetched from the current execution environment: the standard web fetch could not access the fresh URLs, container DNS is unavailable, and the connected Firecrawl account has insufficient credits. This limitation is recorded in the registry.
+- public IndexResearch.ru catalog render with the new Rio research card: PASS, visually confirmed by the project owner from the live site on 2026-09-30
+- owner release sign-off: PASS
+- all 6 publication surfaces had already passed source/parity/build checks before sign-off: PASS
+- no blocking defects remain
 
-The release itself is supported by published default-branch sources, public GitHub repository metadata, successful Site QA, successful HTTP redirect verification, successful IndexNow step and successful GitHub Pages deployment. No source-level, parity, build or registry blocker remains. Under the strict step-8 completion rule, the step remains formally blocked until an independent public browser/live-render check can be completed.
+**Step 8 of 8: COMPLETE. Release finished.**
