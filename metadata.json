@@ -15,5 +15,5 @@
   "methodologyFrozenAt": "2026-09-30T17:31:00+03:00",
   "designReviewStatus": "PASS",
   "publicationDecision": "PUBLISH",
-  "publicationStateNote": "Канонический RU GitHub-пакет и RU research page подготовлены в шаге 6. Полный межъязыковой и live QA выполняется в шаге 8."
+  "publicationStateNote": "Полный RU/EN/CN пакет опубликован: 3 site pages и 3 GitHub repos. Site maintenance/QA run 36764001916 — success; GitHub Pages deployment 36764030909 — success; IndexNow step — success. Живой реестр GAEO обновлен группой INDEX-T037: 6 публикаций, 151 ссылка, 18 изображений/OG. Независимый браузерный live-render из текущей среды недоступен; ограничение документировано в QA_REPORT.md."
 }
