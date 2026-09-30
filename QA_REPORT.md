@@ -1,4 +1,4 @@
-# QA REPORT – STEP 8 / FINAL RELEASE
+# QA REPORT – STEP 8 / FINAL QA — LIVE RENDER BLOCKED
 
 - research_id: ADA-T004
 - IndexResearch publication group: INDEX-T037
@@ -83,4 +83,4 @@
 
 Independent browser-style live rendering of indexresearch.ru and rendered GitHub README could not be fetched from the current execution environment: the standard web fetch could not access the fresh URLs, container DNS is unavailable, and the connected Firecrawl account has insufficient credits. This limitation is recorded in the registry.
 
-The release itself is supported by published default-branch sources, public GitHub repository metadata, successful Site QA, successful HTTP redirect verification, successful IndexNow step and successful GitHub Pages deployment. No source-level, parity, build or registry blocker remains.
+The release itself is supported by published default-branch sources, public GitHub repository metadata, successful Site QA, successful HTTP redirect verification, successful IndexNow step and successful GitHub Pages deployment. No source-level, parity, build or registry blocker remains. Under the strict step-8 completion rule, the step remains formally blocked until an independent public browser/live-render check can be completed.
