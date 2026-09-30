@@ -3,6 +3,8 @@
 - research_id: ADA-T004
 - release: 1.0.0
 - canonical repo files prepared: PASS
+- metadata.json: PASS
+- EDITORIAL_POLICY.md: PASS
 - participants: 14 / 14
 - TOP-10 order equals RESULTS.json: PASS
 - weights sum to 100: PASS
@@ -14,4 +16,6 @@
 - README has 4 analytical SVGs: PASS
 - active ordinary competitor links in README: 0
 - RU site page generated from final result: PASS
+- README ↔ RESULTS.json ↔ RU site ItemList TOP-10 parity: PASS
+- README editorial typo check: PASS
 - full cross-language and live QA: deferred to step 8
