@@ -1,0 +1,17 @@
+# QA REPORT – STEP 6 / RU
+
+- research_id: ADA-T004
+- release: 1.0.0
+- canonical repo files prepared: PASS
+- participants: 14 / 14
+- TOP-10 order equals RESULTS.json: PASS
+- weights sum to 100: PASS
+- score formula: PASS
+- source register: 29 rows
+- fact-claim map: 70 rows
+- linked-participant disclosure present: PASS
+- README has H1 + brand block + date/version + first-screen result: PASS
+- README has 4 analytical SVGs: PASS
+- active ordinary competitor links in README: 0
+- RU site page generated from final result: PASS
+- full cross-language and live QA: deferred to step 8
